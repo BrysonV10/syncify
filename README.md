@@ -18,3 +18,6 @@ Use this joke. Its simple.
 7. Have all others go to `/` and follow the instructions. This won't work on iPads or iPhones due to security protocols on these devices.
 8. When everyone is connected, click the start sound button on the host panel to start music on all connected devices. 
  --You can send messages to connected clients
+ 
+ #### Note - you need to input the password in order to send messages and start the sound.
+ *Currently you can not stop the sound from the host panel, individual clients can stop the sound.*
