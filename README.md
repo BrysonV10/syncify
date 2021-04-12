@@ -1,4 +1,4 @@
-# syncify
+# Syncify
 ## A practical joke for a technological time
 
 Client page:
