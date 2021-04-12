@@ -1,7 +1,10 @@
 # syncify
 ## A practical joke for a technological time
 
-
+Client page:
+![Client page](https://github.com/BrysonV10/syncify/blob/extras/Screenshot%202021-04-12%2012.58.09%20PM.png?raw=true)
+Host page:
+![Host side](https://github.com/BrysonV10/syncify/blob/extras/edited.png?raw=true)
 
 Want to play a prank on a friend, coworker, or other unsuspecting people?
 Use this joke. Its simple. 
