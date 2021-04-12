@@ -1,20 +1,30 @@
-# syncify
-## A practical joke for a technological time
+# hello-express
 
-Client page:
-![Client page](https://github.com/BrysonV10/syncify/blob/extras/Screenshot%202021-04-12%2012.58.09%20PM.png?raw=true)
-Host page:
-![Host side](https://github.com/BrysonV10/syncify/blob/extras/edited.png?raw=true)
+A server that serves a webpage, its resources, and some data
 
-Want to play a prank on a friend, coworker, or other unsuspecting people?
-Use this joke. Its simple. 
 
-1. Install Node.JS and NPM on your computer.
-2. Install dependencies - `npm install`
-3. Go into `views/client.html` and change the URL in the <source> tag to an mp3 file - I've provided Bon Jovi's *You give love a bad name*.
-4. Go into `public/host.js` and change the password. There is a comment showing where.
-5. Run the server - `npm start`
-6. Have one person (the host) go to `/host` 
-7. Have all others go to `/` and follow the instructions. This won't work on iPads or iPhones due to security protocols on these devices.
-8. When everyone is connected, click the start sound button on the host panel to start music on all connected devices. 
- --You can send messages to connected clients
+## Your Project
+
+On the front-end,
+
+- Edit `views/index.html` to change the content of the webpage
+- `public/client.js` is the javacript that runs when you load the webpage
+- `public/style.css` is the styles for `views/index.html`
+- Drag in `assets`, like images or music, to add them to your project
+
+On the back-end,
+
+- your app starts at `server.js`
+- add frameworks and packages in `package.json`
+- safely store app secrets in `.env` (nobody can see this but you and people you invite)
+
+Click `Show` in the header to see your app live. Updates to your code will instantly deploy.
+
+
+## Made by [Glitch](https://glitch.com/)
+
+**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+
+Find out more [about Glitch](https://glitch.com/about).
+
+( ᵔ ᴥ ᵔ )
