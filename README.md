@@ -16,8 +16,8 @@ Host page:
 Want to play a prank on a friend, coworker, or other unsuspecting people?
 Use this joke. Its simple. 
 
-To use on a PC or Mac:
-1. Install Node.JS and NPM on your computer - [Node.JS download](https://nodejs.org/en/)
+To host on a PC, Mac, or Linux:
+1. Install Node.JS and NPM on your computer - [Node.JS download](https://nodejs.org/en/) **Linux users can use their package manager to install Node.JS**
 2. Install dependencies - `npm install`
 3. Go into `views/client.html` and change the URL in the <source> tag to an mp3 file - I've provided Bon Jovi's *You give love a bad name*.
 4. Go into `public/host.js` and change the password. There is a comment showing where.
